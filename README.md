@@ -67,6 +67,9 @@ The following analysis were performed in this project:
 
      ![ae3598fe-5efa-43c4-962a-1acb23886438](https://github.com/user-attachments/assets/b4c8666c-cb51-4aed-90bb-32f151e70583)
 
+7. Analyzing trending videos !
+8. Do Punctuations have an impact on views, likes, dislikes?
+
      
      
 
