@@ -72,6 +72,9 @@ The following analysis were performed in this project:
 
 ### Results
 The results are summarized as follows:
+1. The most positive sentiments of viewers are beautiful, awesome, best, perfect, love, amazing etc.
+2. The most negative sentiments of viewers are terrible, worst, boring, horrible, awful etc.
+3. The most popular trending tags are music video, star wars, makeup tutorial, dude perfect, 
 
 
      
