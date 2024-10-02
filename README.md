@@ -71,6 +71,8 @@ The following analysis were performed in this project:
 8. Do Punctuations have an impact on views, likes, dislikes?
 
 ### Results
+The results are summarized as follows:
+
 
      
      
