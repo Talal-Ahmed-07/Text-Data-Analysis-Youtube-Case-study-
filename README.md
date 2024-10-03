@@ -82,7 +82,15 @@ The results are summarized as follows:
 8. The 3 top trending YouTube channels are The Late Show with Stephen Colbert, WWE and Late Night with Seth Meyers.
 9. Videos with comments having less punctuations have more chances of getting higher views than those having many punctuations.
 
+### Recommendations
+After going through this anlysis, if someone wants to build their youtube channel, they can easily account for the peculiarities they need to account for before establishing the channel like:
+- They can observe how punctuations and emojis are going to affect their viewership.
+- Which type of videos and channel are trending and which category of videos they should start to make
+- How to engage their audience in a better way
+- How to avoid the negative sentiment of viewers
 
+### Limitations
+I have only performed analysis based on past data. But there may be chance that YouTube trend has changed over time. Also, this analysis does not include predictive analytics for future results. But, after going through this analysis, somebody can easily perform predictions using ML techniques to see how well this data is going to perform in future.
      
      
 
