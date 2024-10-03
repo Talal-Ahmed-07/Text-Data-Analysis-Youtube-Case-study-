@@ -74,7 +74,12 @@ The following analysis were performed in this project:
 The results are summarized as follows:
 1. The most positive sentiments of viewers are beautiful, awesome, best, perfect, love, amazing etc.
 2. The most negative sentiments of viewers are terrible, worst, boring, horrible, awful etc.
-3. The most popular trending tags are music video, star wars, makeup tutorial, dude perfect, 
+3. The most popular trending tags are music video, star wars, makeup tutorial, dude perfect, talk show, movie trailer etc.
+4. Likes are very strong correlated with views and may appear to a great predictor for any ML model. The dislikes are not strongly correlated with views.
+5. The most common emojis used by viewers are 😂, 😍, ❤, 🔥, 😭, 👏, 😘, 👍, 💖, 💕.
+6. The 3 most liked categories of YouTube are Music, Entertainment and Comedy.
+7. Almost all the viewers are engaged in the top categories of YouTube in terms of likes and comments.
+8. 
 
 
      
