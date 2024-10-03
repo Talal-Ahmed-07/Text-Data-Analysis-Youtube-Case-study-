@@ -79,7 +79,8 @@ The results are summarized as follows:
 5. The most common emojis used by viewers are 😂, 😍, ❤, 🔥, 😭, 👏, 😘, 👍, 💖, 💕.
 6. The 3 most liked categories of YouTube are Music, Entertainment and Comedy.
 7. Almost all the viewers are engaged in the top categories of YouTube in terms of likes and comments.
-8. 
+8. The 3 top trending YouTube channels are The Late Show with Stephen Colbert, WWE and Late Night with Seth Meyers.
+9. Videos with comments having less punctuations have more chances of getting higher views than those having many punctuations.
 
 
      
